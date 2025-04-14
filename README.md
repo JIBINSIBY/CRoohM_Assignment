@@ -11,8 +11,6 @@ A modern, responsive Todo application built with React that helps users manage t
 - Sort todos by creation date, priority, or alphabetically
 - Real-time notifications for due tasks and updates
 - Task categorization with tags and labels
-- Search functionality for quick task lookup
-- Dark/Light theme options
 - Data synchronization across devices
 - Responsive design for all device sizes
 
